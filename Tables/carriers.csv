@@ -1,0 +1,6 @@
+carrier_id,carrier_name,mc_rating,is_primary,specialty
+300,SwiftLogix,Satisfactory,1,TL
+301,NorthStar Freight,Satisfactory,1,TL
+302,EagleHaul,Conditional,0,TL
+303,BlueRibbon Transport,Satisfactory,0,Reefer
+304,Mesa LTL,Satisfactory,1,LTL

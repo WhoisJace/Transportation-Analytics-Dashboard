@@ -1,0 +1,12 @@
+facility_id,facility_name,city,state,lat,lon,type
+100,Staples DC - Framingham,Framingham,MA,42.2793,-71.4162,DC
+101,Staples DC - York,York,PA,39.9626,-76.7277,DC
+102,Staples DC - Dallas,Dallas,TX,32.7767,-96.797,DC
+200,PaperPro Mills,Augusta,GA,33.4735,-82.0105,Vendor
+201,NorthLake Plastics,Chicago,IL,41.8781,-87.6298,Vendor
+202,WestRidge Electronics,Reno,NV,39.5296,-119.8138,Vendor
+203,BluePine Furniture,Asheville,NC,35.5951,-82.5515,Vendor
+204,SunValley Office Supplies,Phoenix,AZ,33.4484,-112.074,Vendor
+205,Seaside Textiles,Savannah,GA,32.0809,-81.0912,Vendor
+206,LoneStar Packaging,Houston,TX,29.7604,-95.3698,Vendor
+207,Great Lakes Paper,Green Bay,WI,44.5133,-88.0133,Vendor
